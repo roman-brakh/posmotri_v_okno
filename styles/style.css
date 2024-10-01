@@ -141,7 +141,7 @@ ol {
   width: 15px;
   height: 15px;
   background-color: #fff;
-  margin: 0 0 6px 1px;
+  margin: 0 0 7px 1px;
 }
 
 .search-form__label:hover {
@@ -188,6 +188,8 @@ ol {
   width: 407px;
   gap: 12px;
   flex-direction: column;
+  align-self: start;
+  padding-top: 4px;
 }
 
 .title {
@@ -257,7 +259,7 @@ ol {
 }
 
 .content__video-card-title {
-  font-family: 'Oswald';
+  font-family: 'Oswald', Optima, sans-serif;
   font-size: 30px;
   font-weight: 700;
   line-height: 30px;
