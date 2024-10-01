@@ -48,6 +48,10 @@ ol {
   width: 1140px;
 }
 
+.result {
+  margin-top: 78px;
+}
+
 .result__video-container {
   position: relative;
   z-index: 0;
